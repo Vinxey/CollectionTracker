@@ -1,0 +1,8 @@
+{
+    "name": "CollectionTracker",
+    "creator": "Vinxey",
+    "entry": "index.js",
+    "description": "Tracks Collections for tests and for flexing",
+    "version": "0.01",
+    "requires": []
+  }
